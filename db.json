@@ -1,162 +1,165 @@
 {
-    "type": "FeatureCollection",
-    "features": [{
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    109.043573,
-                    13.9543845
-                ]
-            },
-            "properties": {
-                "id": "m1",
-                "phoneFormatted": "19008198",
-                "address": "Sân bay Phú Cát",
-                "city": "Sân bay Phú Cát",
-            }
-        },{
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    109.2220258,
-                    13.8129066
-                ]
-            },
-            "properties": {
-                "id": "mx",
-                "phoneFormatted": "093 703 10 02",
-                "address": "The Villa Hieu Hy",
-                "city": "khu biệt thự đại, phú gia, Binh Dinh Province, Vietnam",
-            }
-        },{
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    109.2179134,
-                    13.7619665
-                ]
-            },
-            "properties": {
-                "id": "mxx",
-                "phoneFormatted": "0256 6288 488",
-                "address": "Khách sạn Mira",
-                "city": "15 Ngô Mây",
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    109.2891518,
-                    13.8460874
-                ]
-            },
-            "properties": {
-                "id": "m3",
-                "phoneFormatted": "0969.969.969",
-                "address": "Kì Co",
-                "city": "Kì Co"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    109.2893155,
-                    13.8834698
-                ]
-            },
-            "properties": {
-                "id": "m4",
-                "phoneFormatted": "0969.969.969",
-                "address": "Eo Gió",
-                "city": "Eo Gió"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    109.2334057,
-                    13.7701441
-                ]
-            },
-            "properties": {
-                "id": "m5",
-                "phoneFormatted": "0969.969.969",
-                "address": "Surf Bar",
-                "city": "Xuân Diệu, P.Lê Lợi"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    109.2871565,
-                    13.7631919
-                ]
-            },
-            "properties": {
-                "id": "m6",
-                "phoneFormatted": "0969.969.969",
-                "address": "Hòn Khô",
-                "city": "Nhơn Hải, TP.Quy nhơn"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    109.2092773,
-                    13.7850892
-                ]
-            },
-            "properties": {
-                "id": "m8",
-                "phoneFormatted": "0969.969.969",
-                "address": "Tháp Đôi",
-                "city": "1071 Trần Hưng Đạo, Đống Đa, Thành phố Qui Nhơn"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    109.2981762,
-                    13.8819186
-                ]
-            },
-            "properties": {
-                "id": "m7",
-                "phoneFormatted": "0969.969.969",
-                "address": "Hòn Sẹo",
-                "city": "1071 Trần Hưng Đạo, Đống Đa, Thành phố Qui Nhơn"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    109.3538775,
-                    13.6336491
-                ]
-            },
-            "properties": {
-                "id": "m9",
-                "phoneFormatted": "0969.969.969",
-                "address": "Cù Lao Xanh",
-                "city": "Cù Lao Xanh"
-            }
-        }
-    ]
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               109.043573,
+               13.9543845
+            ]
+         },
+         "properties":{
+            "id":"m1",
+            "phoneFormatted":"19008198",
+            "address":"Sân bay Phú Cát",
+            "city":"Sân bay Phú Cát"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               109.2220258,
+               13.8129066
+            ]
+         },
+         "properties":{
+            "id":"mx",
+            "phoneFormatted":"093 703 10 02",
+            "address":"The Villa Hieu Hy",
+            "city":"khu biệt thự đại, phú gia, Binh Dinh Province, Vietnam"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               109.2179134,
+               13.7619665
+            ]
+         },
+         "properties":{
+            "id":"mxx",
+            "phoneFormatted":"0256 6288 488",
+            "address":"Khách sạn Mira",
+            "city":"15 Ngô Mây"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               109.2891518,
+               13.8460874
+            ]
+         },
+         "properties":{
+            "id":"m3",
+            "phoneFormatted":"0969.969.969",
+            "address":"Kì Co",
+            "city":"Kì Co"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               109.2893155,
+               13.8834698
+            ]
+         },
+         "properties":{
+            "id":"m4",
+            "phoneFormatted":"0969.969.969",
+            "address":"Eo Gió",
+            "city":"Eo Gió"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               109.2334057,
+               13.7701441
+            ]
+         },
+         "properties":{
+            "id":"m5",
+            "phoneFormatted":"0969.969.969",
+            "address":"Surf Bar",
+            "city":"Xuân Diệu, P.Lê Lợi"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               109.2871565,
+               13.7631919
+            ]
+         },
+         "properties":{
+            "id":"m6",
+            "phoneFormatted":"0969.969.969",
+            "address":"Hòn Khô",
+            "city":"Nhơn Hải, TP.Quy nhơn"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               109.2092773,
+               13.7850892
+            ]
+         },
+         "properties":{
+            "id":"m8",
+            "phoneFormatted":"0969.969.969",
+            "address":"Tháp Đôi",
+            "city":"1071 Trần Hưng Đạo, Đống Đa, Thành phố Qui Nhơn"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               109.2981762,
+               13.8819186
+            ]
+         },
+         "properties":{
+            "id":"m7",
+            "phoneFormatted":"0969.969.969",
+            "address":"Hòn Sẹo",
+            "city":"1071 Trần Hưng Đạo, Đống Đa, Thành phố Qui Nhơn"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               109.3538775,
+               13.6336491
+            ]
+         },
+         "properties":{
+            "id":"m9",
+            "phoneFormatted":"0969.969.969",
+            "address":"Cù Lao Xanh",
+            "city":"Cù Lao Xanh"
+         }
+      }
+   ]
 }
